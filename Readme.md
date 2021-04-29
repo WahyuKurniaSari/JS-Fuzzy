@@ -1,4 +1,4 @@
-# JS-Fuzzy
+PENJELASAN JS FUZZY LOGIC
 
 Fuzzy logic, invented by a man named Lotfi Zadeh in the mid-sixties, enables a computer to reason about linguistic terms and rules in a way similar to humans. Concepts like "far" or "slightly" are not represented by discrete intervals, but by fuzzy sets, enabling values to be assigned to sets to a matter of a degree - a process called fuzzification. Using fuzzified values computers are able to interpret linguistic rules and produce an output that may remain fuzzy or - more commonly, especially in videogames - can be defuzzified to provide a crisp value. This is known as fuzzy rule-based inference, and is one of the most popular uses of fuzzylogic.
 In this library is used the Combs Method.
